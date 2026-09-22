@@ -1,0 +1,6 @@
+{
+  "name": "ShineCraft Cleaning - Leeds Professional Cleaning Services",
+  "description": "Professional residential and commercial cleaning services based in 56 Nowell Place, Leeds, LS9 6HT. Book regular domestic, deep clean, end of tenancy, and office cleaning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
